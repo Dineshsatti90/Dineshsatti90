@@ -8,6 +8,8 @@ I use AI where its outputs can be evaluated and traced back to evidence.
 
 ### [Commerce Intelligence](https://github.com/Dineshsatti90/commerce-intelligence)
 
+[Open live dashboard](https://dineshsatti90-commerce-intelligence.streamlit.app/)
+
 Delivery experience, mature repeat-purchase cohorts and an evaluated SQL evidence copilot on **99,441 real Olist orders**.
 
 - Delivered merchandise value: **R$13.22m**.
@@ -15,6 +17,8 @@ Delivery experience, mature repeat-purchase cohorts and an evaluated SQL evidenc
 - Local-model routing: **86.7%** on 30 disclosed regression questions, with failures documented separately from source-validation results.
 
 ### [SaaS Finance Intelligence](https://github.com/Dineshsatti90/saas-finance-intelligence)
+
+[Open live dashboard](https://dineshsatti90-saas-finance.streamlit.app/)
 
 SEC-backed financial analysis, point-in-time forecasting and an editable Excel model rebuilt with public Python libraries.
 
