@@ -14,7 +14,7 @@ Delivery experience, mature repeat-purchase cohorts and an evaluated SQL evidenc
 
 - Delivered merchandise value: **R$13.22m**.
 - Timing-aware adjusted repeat difference after late delivery: **−0.16 percentage points**, with a 95% interval spanning zero. The recommendation does not assume retention savings.
-- Local-model routing: **86.7%** on 30 disclosed regression questions, with failures documented separately from source-validation results.
+- Fresh-set comparison: 8B routing **90%**, with **80%** combined route/source-contract pass on 20 frozen first-pass questions; failures remain public and semantic correctness is not implied.
 
 ### [SaaS Finance Intelligence](https://github.com/Dineshsatti90/saas-finance-intelligence)
 
@@ -24,7 +24,7 @@ SEC-backed financial analysis, point-in-time forecasting and an editable Excel m
 
 - **3.83m SEC numeric records** ingested; eight software peers in the normalized annual panel.
 - Driver-model WAPE: **3.99% on 40 paired annual targets**; benchmark definitions and every forecast are public.
-- Populated, explicitly fictional AI pricing case: **$18k monthly contribution** under metered pricing assumptions, compared with **$8k** for the subscription add-on.
+- Populated, explicitly fictional AI pricing case: **$8k monthly contribution for both policies at equal baseline pricing**; uneven usage and adoption scenarios determine the tradeoff.
 
 ## Tools and approach
 
